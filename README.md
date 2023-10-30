@@ -1,5 +1,4 @@
 # TextPatternAnalysis-ML
-## TEXTUAL DATA PATTERN DISCOVERY USING MACHINE LEARNING
 ## Analysis of Amazon Food Reviews
 ### Overview
 
